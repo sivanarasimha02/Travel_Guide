@@ -1,0 +1,10 @@
+# Ignore Backend & Python files during Vercel Frontend build
+Backend/
+.venv/
+requirements.txt
+Dockerfile
+docker-compose.yml
+render.yaml
+Procfile
+deploy.sh
+.env*

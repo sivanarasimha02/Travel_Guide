@@ -11,3 +11,4 @@ services:
       - GEMINI_API_KEY=${GEMINI_API_KEY}
       - MURF_API_KEY=${MURF_API_KEY}
     restart: unless-stopped
+
